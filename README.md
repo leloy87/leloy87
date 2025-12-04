@@ -2,10 +2,11 @@
 
 
 <h1 align="center">✨ Hii, I’m <strong>Nompumelelo (leloy87)</strong> ✨</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=500&lines=Developer+by+Day+%F0%9F%8C%9C+Learner+by+Night;Cloud+%E2%98%81%EF%B8%8F+%7C+Data+%F0%9F%8C%90+%7C+AI+%F0%9F%A4%96;Building+Cute%2C+Powerful+Tech+Solutions+%F0%9F%92%96" alt="Typing SVG" />
+</p>
 <h3 align="center">💖 IT Graduate · Application Developer · Cloud & Data Explorer 💖</h3>
 
-
----
 
 <p align="center">
   ━━━━━━━━ 🌸✨🌸 ━━━━━━━━
