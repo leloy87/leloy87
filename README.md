@@ -87,8 +87,7 @@
 ### 🎀 ServiceApplication
 > Application showing  practical Java / app dev skills.
 
-- 🧩 Demonstrates application development concepts  
-- 🛠️ **Tech:** Likely Java / back-end concepts (update description as needed)  
+- 🧩 Demonstrates application development concepts   
 - 🔗 Repo: [ServiceApplication](https://github.com/lel0y87/ServiceApplication)
 
 ---
